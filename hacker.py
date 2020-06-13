@@ -291,11 +291,11 @@ def pilih():
                 jalan('\033[1;96mpkg install git')
                 jalan('\033[1;96mpip2 install requests')
                 jalan('\033[1;96mpip2 install mechanize') 
-                jalan("\033[1;96mgit clone https://github.com/PakTigers/Saadu")
-                jalan('\033[1;96mcd Saadu')
-                jalan('\033[1;96mpython2 Saadu')
-                jalan('\033[1;96mUser: saadu')
-                jalan('\033[1;96mpass: king')
+                jalan("\033[1;96mgit clone https://github.com/VirusMakerKingAsad/hacker")
+                jalan('\033[1;96mcd hacker')
+                jalan('\033[1;96mpython2 hacker')
+                jalan('\033[1;96mUser: hacker')
+                jalan('\033[1;96mpass: asad')
                 jalan('\033[1;92m👆Copy Command & send 2 groups👆')
                 jalan('\033[1;91mYoutube Chenal Like Subscrib plzz')
 		os.system('git pull origin master')
@@ -398,7 +398,7 @@ def pilih_crack():
 		for p in s['data']:
 			id.append(p['id'])
         elif peak =="4":
-	        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+	        os.system('xdg-open https://m.youtube.com/channel/UCpfLeE7qhqT73fQ9DQz9O5g')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -2182,7 +2182,7 @@ def pilih_super():
  
          Checkpoint ID Open After 10 Days
 •\033[1;97m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.
-: \033[1;94m ....Asad Ansaari  BlackTiger....... \033[1;97m :
+: \033[1;94m ....Asad Ansaari ....... \033[1;97m :
 •\033[1;97m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.' 
                 JOIN ME
               \033[1;94m +923214598890"""
